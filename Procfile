@@ -1,1 +1,1 @@
-web: gunicorn codestar.wsgi
+web: gunicorn decant09-codestar-f2acfff02696.wsgi
