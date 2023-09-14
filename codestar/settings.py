@@ -31,7 +31,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'decant09-codestar-f2acfff02696.herokuapp.com',
+    'codestar.herokuapp.com',
     
 
  
