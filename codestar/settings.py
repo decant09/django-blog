@@ -79,7 +79,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'codestar.wsgi.application'
+decant09-codestar-f2acfff02696WSGI_APPLICATION = 'codestar.wsgi.application'
 
 
 # Database
