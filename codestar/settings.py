@@ -33,7 +33,7 @@ DEBUG = True
 ALLOWED_HOSTS = [
     'codestar.herokuapp.com',
     '8000-decant09-django-blog-jigix5lrfd.us2.codeanyapp.com',
-    'decant09-codestar-f2acfff02696.herokuapp.com,,
+    'decant09-codestar-f2acfff02696.herokuapp.com',
 ]
 
 # Application definition
