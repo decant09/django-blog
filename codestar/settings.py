@@ -32,10 +32,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'codestar.herokuapp.com',
-    
-
- 
-
+    '8000-decant09-django-blog-jigix5lrfd.us2.codeanyapp.com',
+]
 
 # Application definition
 
@@ -48,7 +46,7 @@ INSTALLED_APPS = [
     'cloudinary_storage',
     'django.contrib.staticfiles',
     'cloudinary',
-    'blog'
+    'blog',
 ]
 
 MIDDLEWARE = [
@@ -79,7 +77,7 @@ TEMPLATES = [
     },
 ]
 
-codestardecant09-codestar-f2acfff02696WSGI_APPLICATION = 'codestar.wsgi.application'
+WSGI_APPLICATION = 'codestar.wsgi.application'
 
 
 # Database
